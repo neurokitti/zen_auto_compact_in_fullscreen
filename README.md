@@ -1,0 +1,1 @@
+# zen_auto_compact_in_fullscreen
